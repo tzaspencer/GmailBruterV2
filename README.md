@@ -43,7 +43,7 @@ s-{CMD} -- Executing Shell Command
 - It's Pretty Easy Here. You Just Need To Create a Local File Looks Like This:
 
 ```
-email:{TARGET}
+email:{anthonyspencer8877@gmail.com}
 list:{LIST-PATH}
 time:{TIME}
 ```
@@ -51,7 +51,7 @@ time:{TIME}
 - Here's a Simple Example Of The Config
 
 ```
-email:example@gmail.com
+email:anthonyspencer88gmail.com
 list:PassList.txt
 time:10
 ```
